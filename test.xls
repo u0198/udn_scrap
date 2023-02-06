@@ -1,0 +1,1467 @@
+
+<!DOCTYPE html>
+
+<!--[if lte IE 8]><html class="ie8"><![endif]-->
+<!--[if gt IE 8]><!-->
+<html>
+<!--<![endif]-->
+    <head>
+        <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0" />
+        <title>Nord Pool</title>
+
+        <meta name="DC.title" content="See what Nord Pool can offer you."/><meta name="description" content="Nord Pool runs the leading power market in Europe, and we offer day-ahead and intraday markets to our customers. 
+
+Trade power in 16 countries and add related services such as compliance, data or courses.  "/><meta name="keywords" content="Power market, power, market, exchange, Elspot, Elbas, Day-ahead, intraday, power exchange"/>
+        <meta content="https://www.nordpoolgroup.com/en/" property="og:url"></meta>
+<meta content="article" property="og:type"></meta>
+<meta content="See what Nord Pool can offer you." property="og:title"></meta>
+<meta content="Nord Pool runs the leading power market in Europe, and we offer day-ahead and intraday markets to our customers. 
+
+Trade power in 16 countries and add related services such as compliance, data or courses.  " property="og:description"></meta>
+<meta content="https://www.nordpoolgroup.com/49bf5d/globalassets/images/logos/nop_logo.jpg" property="og:image"></meta>
+
+        <meta content="summary_large_image" name="twitter:card"></meta>
+<meta content="@NordPool_energy" name="twitter:site"></meta>
+<meta content="See what Nord Pool can offer you." name="twitter:title"></meta>
+<meta content="Nord Pool runs the leading power market in Europe, and we offer day-ahead and intraday markets to our customers. 
+
+Trade power in 16 countries and add related services such as compliance, data or courses.  " name="twitter:description"></meta>
+<meta content="https://www.nordpoolgroup.com/49bf5d/globalassets/images/logos/nop_logo.jpg" name="twitter:image"></meta>
+
+
+            <link rel="canonical" href="https://www.nordpoolgroup.com/en/" />
+                    <link rel="alternate" href="https://www.nordpoolgroup.com/en/" hreflang="en" />
+                    <link rel="alternate" href="https://www.nordpoolgroup.com/de/" hreflang="de" />
+                    <link rel="alternate" href="https://www.nordpoolgroup.com/fr/" hreflang="fr" />
+        <link rel="apple-touch-icon-precomposed" sizes="152x152" href="/Static/favicon-152.png">
+        <link rel="apple-touch-icon-precomposed" sizes="144x144" href="/Static/favicon-144.png">
+        <link rel="apple-touch-icon-precomposed" sizes="120x120" href="/Static/favicon-120.png">
+        <meta name="msapplication-TileColor" content="#FFFFFF">
+        <meta name="msapplication-TileImage" content="/Static/favicon-144.png">
+
+        <link href="/Assets/Styles/nordpool.css?v=637861362120000000" type="text/css" rel="stylesheet" />
+
+
+        <link href='https://fonts.googleapis.com/css?family=Lato:400' rel='stylesheet' type='text/css'>
+        <link rel="stylesheet" type="text/css" href="/Vendor/bower_components/jssocials/dist/jssocials.css">
+        <link rel="stylesheet" type="text/css" href="/Vendor/bower_components/jssocials/dist/jssocials-theme-flat.css" />
+        <script async src="/Assets/Scripts-Release/slimmage.js"></script>
+        <script defer src="/Scripts/Carousel.js"></script>
+
+        <script>
+
+    var consent = getCookie('cookie-consent');
+
+    var thirdpartyCookies = false;
+    if (consent == "true" || hasConsentGroup("3rdparty")) {
+        thirdpartyCookies = true;
+    }
+
+    function hasConsentGroup(cname) {
+
+        var consentGroup = getCookie('consent-group');
+
+        var cookieArray = consentGroup.split(',');
+        if (cookieArray.indexOf(cname) > -1) {
+            return true;
+        }
+        return false;
+    }
+
+    function getCookie(cname) {
+        var name = cname + "=";
+        var ca = document.cookie.split(';');
+        for (var i = 0; i < ca.length; i++) {
+            var c = ca[i];
+            while (c.charAt(0) == ' ') {
+                c = c.substring(1);
+            }
+            if (c.indexOf(name) == 0) {
+                return c.substring(name.length, c.length);
+            }
+        }
+        return "";
+    }
+
+</script>
+
+
+
+<script>
+    if (thirdpartyCookies) {
+        (function(i, s, o, g, r, a, m) {
+            i['GoogleAnalyticsObject'] = r;
+            i[r] = i[r] || function() {
+                (i[r].q = i[r].q || []).push(arguments)
+            }, i[r].l = 1 * new Date();
+            a = s.createElement(o),
+                m = s.getElementsByTagName(o)[0];
+            a.async = 1;
+            a.src = g;
+            m.parentNode.insertBefore(a, m)
+        })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+        ga('create', 'UA-23015596-3', 'auto');
+        ga('send', 'pageview');
+    }
+</script>
+
+
+<script>
+    if (thirdpartyCookies) {
+        (function (w, d, s, l, i) {
+        w[l] = w[l] || []; w[l].push({
+            'gtm.start':
+                new Date().getTime(), event: 'gtm.js'
+        }); var f = d.getElementsByTagName(s)[0],
+            j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+                'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-5JR3J9M');
+    }
+</script>
+
+<script>
+    if (thirdpartyCookies) {
+        /**
+    * Function that tracks a click on an outbound link in Analytics.
+    * This function takes a valid URL string as an argument, and uses that URL string
+    * as the event label. Setting the transport method to 'beacon' lets the hit be sent
+    * using 'navigator.sendBeacon' in browser that support it.
+    */
+        var trackOutboundLink = function (url) {
+            ga('send', 'event', 'outbound', 'click', url, {
+                'transport': 'beacon',
+                'hitCallback': function () { document.location = url; }
+            });
+        }
+    }
+</script>
+
+
+<!--[if gt IE 8]><!-->
+<script type="text/javascript">
+
+    if (thirdpartyCookies) {
+
+        var appInsights = window.appInsights || function(config) {
+            function s(config) {
+                t[config] = function() {
+                    var i = arguments;
+                    t.queue.push(function() { t[config].apply(t, i) })
+                }
+            }
+
+            var t = { config: config }, r = document, f = window, e = "script", o = r.createElement(e), i, u;
+            for (o.src = config.url || "//az416426.vo.msecnd.net/scripts/a/ai.0.js", r.getElementsByTagName(e)[0].parentNode.appendChild(o), t.cookie = r.cookie, t.queue = [], i = ["Event", "Exception", "Metric", "PageView", "Trace"]; i.length;) s("track" + i.pop());
+            return config.disableExceptionTracking || (i = "onerror", s("_" + i), u = f[i], f[i] = function(config, r, f, e, o) {
+                var s = u && u(config, r, f, e, o);
+                return s !== !0 && t["_" + i](config, r, f, e, o), s
+            }), t
+        }({
+            instrumentationKey: 'cd13383b-6745-4039-ab6a-edfa195041d9'
+        });
+
+        window.appInsights = appInsights;
+        appInsights.trackPageView();
+    }
+</script><!--<![endif]-->
+
+<script type="text/javascript" src="https://analytics-eu.clickdimensions.com/ts.js"></script>
+
+<script type="text/javascript">
+    if (thirdpartyCookies) {
+        var cdAnalytics = new clickdimensions.Analytics('analytics-eu.clickdimensions.com');
+        cdAnalytics.setAccountKey('aEBA3sg4oSEC7D0WBbD1EZ');
+        cdAnalytics.setDomain('npspot.com');
+        cdAnalytics.setScore(typeof (cdScore) == "undefined" ? 0 : (cdScore == 0 ? null : cdScore));
+        cdAnalytics.trackPage();
+    } else {
+        console.log('disabled 3rd party cookies');
+    }
+</script>
+
+
+    <!-- Hotjar Tracking Code for www.nordpoolgroup.com -->
+    <script>
+        if (thirdpartyCookies) {
+            (function (h, o, t, j, a, r) {
+                h.hj = h.hj || function () { (h.hj.q = h.hj.q || []).push(arguments) };
+                h._hjSettings = { hjid: 667800, hjsv: 6 };
+                a = o.getElementsByTagName('head')[0];
+                r = o.createElement('script');
+                r.async = 1;
+                r.src = t + h._hjSettings.hjid + j + h._hjSettings.hjsv;
+                a.appendChild(r);
+            })(window, document, 'https://static.hotjar.com/c/hotjar-', '.js?sv=');
+        }
+    </script>
+
+
+
+
+        <!--[if lte IE 8]>
+            <script src="/Assets/Scripts-Release/ie8.js?v=637861362140000000")></script>
+        <![endif]-->
+
+        
+        <script defer src="/Scripts/CustomEpiserverForms.js"></script>
+    </head>
+
+    <body>
+            <div id="cookie-consent" ng-controller="CookieConsentKitController as cookieConsentCtrl" ng-show="!cookieConsentCtrl.isConsentSelected()" ng-cloak>
+        <div class="cookie-text"><p>This site uses cookies to offer you a better browsing experience. Find out more on <a href="/en/About-us/control-cookies/">how we use cookies and how you can change your settings</a>.</p></div>
+        <div class="cookie-button-div">
+            <button class="pure-button" ng-click="cookieConsentCtrl.toggleFullCookieConsent(true)">I accept cookies</button>
+            <button class="pure-button decline" ng-click="cookieConsentCtrl.toggleFullCookieConsent(false)">I refuse cookies</button>
+        </div>
+        <div style="clear:both"></div>
+    </div>
+
+        <div id="page">
+            <header>
+                
+
+
+<nav id="nav" ng-controller="HeaderController as ctrl" ng-init="ctrl.headerColor(false)" ng-cloak ng-class="{'search-expanded': ctrl.expanded}">
+    <div class="logo  hide-md">
+        <a href="/en/" target="_self">
+            <img src="/Static/new-logo.png" alt="Nord Pool logo" />
+        </a>
+    </div>
+
+    <a href="#" class="mobile-button show-market-updates mobile-menu-toggle" ng-click="ctrl.toggleMenu()">
+        <img src="/Static/np_burger-white.svg" ng-if="!ctrl.showMenu" />
+        <img src="/Static/close-white.svg" ng-if="ctrl.showMenu" ng-cloak />
+    </a>
+
+    <div class="mobile-logo show-md">
+        <a href="/en/" target="_self">
+            <img src="/Static/new-logo.png" alt="Nord Pool logo" />
+        </a>
+    </div>
+
+    <div class="header-width show-market-updates show-login-button">
+        
+
+
+<div class="market-updates-expander"
+     ng-click="ctrl.toggleSidebar(); $event.stopPropagation()"
+     ng-class="{'menu-fade': ctrl.showMenu, 'market-updates': ctrl.updateCount > 0}"
+     title="Market Updates"
+     alt="Market Updates">
+    <span class="hide-md">Market</span>
+    updates
+    <br/>
+    <i class="fa fa-caret-down"></i>
+</div>
+<div class="market-updates-sidebar" ng-class="{expand: ctrl.showSidebar}" ng-cloak click-outside-element="ctrl.closeSidebar()">
+    <ul class="market-updates-tabs">
+        <li ng-click="ctrl.changeMarketUpdateTab(ctrl.marketUpdateTabs[0])" 
+            ng-class="{active: ctrl.marketUpdateSelectedTab == ctrl.marketUpdateTabs[0]}">Operational messages</li>
+        <li ng-click="ctrl.changeMarketUpdateTab(ctrl.marketUpdateTabs[1])" 
+            ng-class="{active: ctrl.marketUpdateSelectedTab == ctrl.marketUpdateTabs[1]}">Urgent market messages</li>
+    </ul>
+    
+    <div class="ng-hide" ng-show="ctrl.marketUpdateSelectedTab == 'operational'">
+        <div><div>
+
+<div class="box message-list-box ">
+    <div class="box-header">
+        Operational Messages
+        
+    </div>
+
+    <div class="box-body">
+        <ul class="messages" nps-messagelist root="1946" count="3" clamp="true"></ul>
+        <p><a href="/en/trading/Operational-Message-List/">View all</a></p>
+
+    </div>
+</div>
+</div></div>
+    </div>
+    <div class="ng-hide" ng-show="ctrl.marketUpdateSelectedTab == 'umm'">
+        <div><div>
+
+<div class="box message-list-box">
+    <div class="box-header">
+        Urgent Market Messages
+
+        <div nps-update-notifier url="https://ummrss.nordpoolgroup.com/messages/"></div>
+    </div>
+    <div class="box-body">
+        <ul class="messages" feed-listing url="https://ummrss.nordpoolgroup.com/messages/" limit="3" clamp="true"></ul>
+        <div style="clear: both;"></div>
+        <p><a href="https://umm.nordpoolgroup.com/" target="_blank">View all</a></p>
+    </div>
+</div></div></div>
+    </div>
+</div>
+
+        <div class="menu-container  show-market-updates show-login-button hide-md" ng-class="{'expand': ctrl.showMenu}">
+            
+            
+<ul class="menu">
+        <li class="menu-item">
+                <a href="/en/Market-data1/" target="_self">
+                    Market data
+                </a>  
+                            <a href="#" class="menu-expander">
+                    <i class="fa expander-icon"></i>
+                </a>
+
+<ul class="sub-menu">
+        <li class="menu-item">
+                <a href="/en/Market-data1/Dayahead/Area-Prices/ALL1/Hourly/" target="_self">
+                    Nord Pool day-ahead
+                </a>  
+                            <a href="#" class="menu-expander">
+                    <i class="fa expander-icon"></i>
+                </a>
+
+<ul class="sub-menu">
+        <li class="menu-item">
+                <a href="/en/Market-data1/Dayahead/Area-Prices/" target="_self">
+                    Prices
+                </a>  
+                    </li>
+        <li class="menu-item">
+                <a href="/en/Market-data1/Dayahead/Volumes/" target="_self">
+                    Volumes
+                </a>  
+                    </li>
+        <li class="menu-item">
+                <a href="/en/Market-data1/Dayahead/Capacities1/Capacities/" target="_self">
+                    Capacities
+                </a>  
+                    </li>
+        <li class="menu-item">
+                <a href="/en/Market-data1/Dayahead/Flow1/Flow/KEY/" target="_self">
+                    Flow
+                </a>  
+                    </li>
+
+
+</ul>
+        </li>
+        <li class="menu-item">
+                <a href="/en/Market-data1/Intraday/Market-data1/" target="_self">
+                    Nord Pool intraday
+                </a>  
+                            <a href="#" class="menu-expander">
+                    <i class="fa expander-icon"></i>
+                </a>
+
+<ul class="sub-menu">
+        <li class="menu-item">
+                <a href="/en/Market-data1/Intraday/Market-data1/" target="_self">
+                    Market data
+                </a>  
+                    </li>
+        <li class="menu-item">
+                <a href="/en/Market-data1/Intraday/Volumes/" target="_self">
+                    Volumes
+                </a>  
+                    </li>
+        <li class="menu-item">
+                <a href="/en/Market-data1/Intraday/Market-data13/" target="_self">
+                    Initial capacity
+                </a>  
+                    </li>
+        <li class="menu-item">
+                <a href="/en/Market-data1/Intraday/Market-data12/" target="_self">
+                    Flow
+                </a>  
+                    </li>
+        <li class="menu-item">
+                <a href="/en/Market-data1/Intraday/Market-data11/" target="_self">
+                    Transmission capacity
+                </a>  
+                    </li>
+        <li class="menu-item">
+                <a href="/en/Market-data1/Intraday/Market-data14/" target="_self">
+                    Total scheduled flow
+                </a>  
+                    </li>
+        <li class="menu-item">
+                <a href="/en/Market-data1/Intraday/intraday-auction/" target="_self">
+                    Intraday auction DE
+                </a>  
+                    </li>
+        <li class="menu-item">
+                <a href="/en/Market-data1/Intraday/indices/" target="_self">
+                    Indices
+                </a>  
+                    </li>
+        <li class="menu-item">
+                <a href="/en/Market-data1/Intraday/intraday-auction-uk/" target="_self">
+                    SEM-GB intraday auction UK
+                </a>  
+                    </li>
+
+
+</ul>
+        </li>
+        <li class="menu-item">
+                <a href="/en/Market-data1/GB/Auction-prices/UK/Hourly/" target="_self">
+                    Nord Pool UK
+                </a>  
+                            <a href="#" class="menu-expander">
+                    <i class="fa expander-icon"></i>
+                </a>
+
+<ul class="sub-menu">
+        <li class="menu-item">
+                <a href="/en/Market-data1/GB/Auction-prices/" target="_self">
+                    Prices
+                </a>  
+                    </li>
+        <li class="menu-item">
+                <a href="/en/Market-data1/GB/Auction-prices1/" target="_self">
+                    Block prices
+                </a>  
+                    </li>
+        <li class="menu-item">
+                <a href="/en/Market-data1/GB/Volumes/" target="_self">
+                    Volumes
+                </a>  
+                    </li>
+        <li class="menu-item">
+                <a href="/en/Market-data1/GB/Capacities/" target="_self">
+                    Capacities
+                </a>  
+                    </li>
+        <li class="menu-item">
+                <a href="/en/Market-data1/GB/Flow/" target="_self">
+                    Flow
+                </a>  
+                    </li>
+        <li class="menu-item">
+                <a href="/en/Market-data1/GB/Exchange-rates/" target="_self">
+                    Exchange rates
+                </a>  
+                    </li>
+        <li class="menu-item">
+                <a href="/en/Market-data1/GB/index-prices/" target="_self">
+                    Index prices
+                </a>  
+                    </li>
+        <li class="menu-item">
+                <a href="/en/Market-data1/GB/half-hourly-prices/" target="_self">
+                    Half hourly prices
+                </a>  
+                    </li>
+        <li class="menu-item">
+                <a href="/en/Market-data1/GB/half-hourly-block-prices/" target="_self">
+                    Half hourly block prices
+                </a>  
+                    </li>
+        <li class="menu-item">
+                <a href="/en/Market-data1/GB/half-hourly-volumes/" target="_self">
+                    Half hourly volumes
+                </a>  
+                    </li>
+
+
+</ul>
+        </li>
+        <li class="menu-item">
+                <a href="/en/Market-data1/Regulating-Power1/Regulating-Power--Area1/" target="_self">
+                    Regulating power
+                </a>  
+                            <a href="#" class="menu-expander">
+                    <i class="fa expander-icon"></i>
+                </a>
+
+<ul class="sub-menu">
+        <li class="menu-item">
+                <a href="/en/Market-data1/Regulating-Power1/Regulating-Power--Area1/" target="_self">
+                    Regulating power per area
+                </a>  
+                    </li>
+        <li class="menu-item">
+                <a href="/en/Market-data1/Regulating-Power1/Regulating-Prices1/" target="_self">
+                    Regulating prices
+                </a>  
+                    </li>
+        <li class="menu-item">
+                <a href="/en/Market-data1/Regulating-Power1/Regulating-Volumes1/" target="_self">
+                    Regulating volumes
+                </a>  
+                    </li>
+        <li class="menu-item">
+                <a href="/en/Market-data1/Regulating-Power1/Volume-of-Regulating-Power-Bids/" target="_self">
+                    Volume of regulating bids
+                </a>  
+                    </li>
+        <li class="menu-item">
+                <a href="/en/Market-data1/Regulating-Power1/Special-Regulation1/" target="_self">
+                    Special regulation volume
+                </a>  
+                    </li>
+        <li class="menu-item">
+                <a href="/en/Market-data1/Regulating-Power1/Automatic-activated-reserve/" target="_self">
+                    Automatic activated reserve
+                </a>  
+                    </li>
+
+
+</ul>
+        </li>
+        <li class="menu-item">
+                <a href="/en/Market-data1/Power-system-data/Production1/Production1/" target="_self">
+                    Power system data
+                </a>  
+                            <a href="#" class="menu-expander">
+                    <i class="fa expander-icon"></i>
+                </a>
+
+<ul class="sub-menu">
+        <li class="menu-item">
+                <a href="/en/Market-data1/Power-system-data/Production1/" target="_self">
+                    Production
+                </a>  
+                    </li>
+        <li class="menu-item">
+                <a href="/en/Market-data1/Power-system-data/Consumption1/" target="_self">
+                    Consumption
+                </a>  
+                    </li>
+        <li class="menu-item">
+                <a href="/en/Market-data1/Power-system-data/Exchange1/" target="_self">
+                    Exchange
+                </a>  
+                    </li>
+        <li class="menu-item">
+                <a href="/en/Market-data1/Power-system-data/hydro-reservoir1/" target="_self">
+                    Hydro Reservoir
+                </a>  
+                    </li>
+
+
+</ul>
+        </li>
+        <li class="menu-item">
+                <a href="/en/maps/" target="_self">
+                    Maps
+                </a>  
+                            <a href="#" class="menu-expander">
+                    <i class="fa expander-icon"></i>
+                </a>
+
+<ul class="sub-menu">
+        <li class="menu-item">
+                <a href="/en/maps/" target="_self">
+                    Day-ahead overview
+                </a>  
+                    </li>
+
+
+</ul>
+        </li>
+        <li class="menu-item">
+                <a href="/en/Market-data1/data-downloads/historical-market-data2/" target="_self">
+                    Data downloads
+                </a>  
+                            <a href="#" class="menu-expander">
+                    <i class="fa expander-icon"></i>
+                </a>
+
+<ul class="sub-menu">
+        <li class="menu-item">
+                <a href="/en/Market-data1/data-downloads/aggregated-market-data/" target="_self">
+                    Aggregated Market Data
+                </a>  
+                    </li>
+        <li class="menu-item">
+                <a href="/en/elspot-price-curves/" target="_self">
+                    System Price Curve Data
+                </a>  
+                    </li>
+        <li class="menu-item">
+                <a href="/en/Market-data1/data-downloads/recalculated-nordic-system-price/" target="_self">
+                    Recalculated Nordic System Price
+                </a>  
+                    </li>
+        <li class="menu-item">
+                <a href="/en/Market-data1/data-downloads/nord-pool-report-on-the-nordic-system-price/" target="_self">
+                    Nord Pool Report on the Nordic System Price
+                </a>  
+                    </li>
+
+
+</ul>
+        </li>
+
+
+</ul>
+        </li>
+        <li class="menu-item">
+                <a href="/en/trading/" target="_self">
+                    Trading
+                </a>  
+                            <a href="#" class="menu-expander">
+                    <i class="fa expander-icon"></i>
+                </a>
+
+<ul class="sub-menu">
+        <li class="menu-item">
+                <a href="/en/trading/join-our-markets/" target="_self">
+                    Join our markets
+                </a>  
+                            <a href="#" class="menu-expander">
+                    <i class="fa expander-icon"></i>
+                </a>
+
+<ul class="sub-menu">
+        <li class="menu-item">
+                <a href="/en/trading/join-our-markets/becoming-a-customer/" target="_self">
+                    Becoming a customer
+                </a>  
+                    </li>
+        <li class="menu-item">
+                <a href="/en/trading/join-our-markets/membership/" target="_self">
+                    Membership list
+                </a>  
+                    </li>
+        <li class="menu-item">
+                <a href="/en/trading/join-our-markets/market-managers/" target="_self">
+                    Market Managers
+                </a>  
+                    </li>
+
+
+</ul>
+        </li>
+        <li class="menu-item">
+                <a href="/en/trading/Operational-Message-List/" target="_self">
+                    Operational messages
+                </a>  
+                    </li>
+        <li class="menu-item">
+                <a href="/en/trading/Day-ahead-trading/" target="_self">
+                    Day-ahead trading
+                </a>  
+                            <a href="#" class="menu-expander">
+                    <i class="fa expander-icon"></i>
+                </a>
+
+<ul class="sub-menu">
+        <li class="menu-item">
+                <a href="/en/trading/Day-ahead-trading/Order-types/" target="_self">
+                    Order types
+                </a>  
+                    </li>
+        <li class="menu-item">
+                <a href="/en/trading/Day-ahead-trading/Price-calculation/" target="_self">
+                    Price calculation
+                </a>  
+                    </li>
+        <li class="menu-item">
+                <a href="/en/trading/Day-ahead-trading/Preliminary-prices-and-exchange-rates/" target="_self">
+                    Preliminary prices and exchange rates
+                </a>  
+                    </li>
+        <li class="menu-item">
+                <a href="/en/trading/Day-ahead-trading/capacities/" target="_self">
+                    Capacities
+                </a>  
+                    </li>
+        <li class="menu-item">
+                <a href="/en/trading/Day-ahead-trading/Ramping/" target="_self">
+                    Ramping
+                </a>  
+                    </li>
+        <li class="menu-item">
+                <a href="/en/trading/Day-ahead-trading/loss-functionality/" target="_self">
+                    Loss functionality
+                </a>  
+                    </li>
+        <li class="menu-item">
+                <a href="/en/trading/Day-ahead-trading/Curtailment-price-thresholds-and-decoupling/" target="_self">
+                    Curtailment, price thresholds and decoupling
+                </a>  
+                    </li>
+
+
+</ul>
+        </li>
+        <li class="menu-item">
+                <a href="/en/trading/intraday-trading/" target="_self">
+                    Intraday trading
+                </a>  
+                            <a href="#" class="menu-expander">
+                    <i class="fa expander-icon"></i>
+                </a>
+
+<ul class="sub-menu">
+        <li class="menu-item">
+                <a href="/en/trading/intraday-trading/order-types/" target="_self">
+                    Order types
+                </a>  
+                    </li>
+        <li class="menu-item">
+                <a href="/en/trading/intraday-trading/capacities/" target="_self">
+                    Capacities
+                </a>  
+                    </li>
+
+
+</ul>
+        </li>
+        <li class="menu-item">
+                <a href="/en/trading/Clearing/" target="_self">
+                    Clearing
+                </a>  
+                            <a href="#" class="menu-expander">
+                    <i class="fa expander-icon"></i>
+                </a>
+
+<ul class="sub-menu">
+        <li class="menu-item">
+                <a href="/en/trading/Clearing/Settlement/" target="_self">
+                    Settlement
+                </a>  
+                    </li>
+        <li class="menu-item">
+                <a href="/en/trading/Clearing/Collateral/" target="_self">
+                    Collateral
+                </a>  
+                    </li>
+        <li class="menu-item">
+                <a href="/en/trading/Clearing/change-to-our-margin-model/" target="_self">
+                    Margin model
+                </a>  
+                    </li>
+
+
+</ul>
+        </li>
+        <li class="menu-item">
+                <a href="/en/trading/api/" target="_self">
+                    API
+                </a>  
+                            <a href="#" class="menu-expander">
+                    <i class="fa expander-icon"></i>
+                </a>
+
+<ul class="sub-menu">
+        <li class="menu-item">
+                <a href="/en/trading/api/isv-partners/" target="_self">
+                    ISV partners
+                </a>  
+                    </li>
+
+
+</ul>
+        </li>
+        <li class="menu-item">
+                <a href="/en/trading/Rules-and-regulations/" target="_self">
+                    Rules and regulations
+                </a>  
+                    </li>
+        <li class="menu-item">
+                <a href="/en/trading/Market-surveillance/" target="_self">
+                    Market surveillance
+                </a>  
+                            <a href="#" class="menu-expander">
+                    <i class="fa expander-icon"></i>
+                </a>
+
+<ul class="sub-menu">
+        <li class="menu-item">
+                <a href="/en/trading/Market-surveillance/newsletter/" target="_self">
+                    Market Surveillance Quarterly Newsletter
+                </a>  
+                    </li>
+        <li class="menu-item">
+                <a href="/en/trading/Market-surveillance/expert-reports/" target="_self">
+                    Expert reports
+                </a>  
+                    </li>
+
+
+</ul>
+        </li>
+        <li class="menu-item">
+                <a href="/en/trading/customers-have-their-say/" target="_self">
+                    Customers have their say
+                </a>  
+                    </li>
+
+
+</ul>
+        </li>
+        <li class="menu-item">
+                <a href="/en/services/" target="_self">
+                    Services
+                </a>  
+                            <a href="#" class="menu-expander">
+                    <i class="fa expander-icon"></i>
+                </a>
+
+<ul class="sub-menu">
+        <li class="menu-item">
+                <a href="/en/services/power-market-data-services/" target="_self">
+                    Power Data Services
+                </a>  
+                            <a href="#" class="menu-expander">
+                    <i class="fa expander-icon"></i>
+                </a>
+
+<ul class="sub-menu">
+        <li class="menu-item">
+                <a href="/en/services/power-market-data-services/day-ahead-market-data/" target="_self">
+                    Day-Ahead Market Data
+                </a>  
+                    </li>
+        <li class="menu-item">
+                <a href="/en/services/power-market-data-services/intraday-market-data/" target="_self">
+                    Intraday Market Data
+                </a>  
+                    </li>
+        <li class="menu-item">
+                <a href="/en/services/power-market-data-services/intradayoperational/" target="_self">
+                    Intraday Operational Data
+                </a>  
+                    </li>
+        <li class="menu-item">
+                <a href="/en/services/power-market-data-services/intradayhubtohub/" target="_self">
+                    Intraday Hub2Hub
+                </a>  
+                    </li>
+        <li class="menu-item">
+                <a href="/en/services/power-market-data-services/dataportalregistration/" target="_self">
+                    Data Portal
+                </a>  
+                    </li>
+        <li class="menu-item">
+                <a href="/en/services/power-market-data-services/Product-details/" target="_self">
+                    Other products
+                </a>  
+                    </li>
+        <li class="menu-item">
+                <a href="/en/services/power-market-data-services/electricityretailers/" target="_self">
+                    Electricity retailers
+                </a>  
+                    </li>
+        <li class="menu-item">
+                <a href="/en/services/power-market-data-services/faq/" target="_self">
+                    FAQ
+                </a>  
+                    </li>
+        <li class="menu-item">
+                <a href="/en/services/power-market-data-services/inquire-and-order2/" target="_self">
+                    Inquire and Order
+                </a>  
+                    </li>
+
+
+</ul>
+        </li>
+        <li class="menu-item">
+                <a href="/en/services/compliance/" target="_self">
+                    Compliance
+                </a>  
+                            <a href="#" class="menu-expander">
+                    <i class="fa expander-icon"></i>
+                </a>
+
+<ul class="sub-menu">
+        <li class="menu-item">
+                <a href="/en/services/compliance/umm/" target="_self">
+                    REMIT UMM
+                </a>  
+                    </li>
+        <li class="menu-item">
+                <a href="/en/services/compliance/remit/" target="_self">
+                    REMIT transaction reporting service
+                </a>  
+                    </li>
+        <li class="menu-item">
+                <a href="/en/services/compliance/remit-best-practice/" target="_self">
+                    REMIT Best Practice Report
+                </a>  
+                    </li>
+
+
+</ul>
+        </li>
+        <li class="menu-item">
+                <a href="/en/services/consulting/" target="_self">
+                    Consulting
+                </a>  
+                            <a href="#" class="menu-expander">
+                    <i class="fa expander-icon"></i>
+                </a>
+
+<ul class="sub-menu">
+        <li class="menu-item">
+                <a href="/en/services/consulting/recent-projects/" target="_self">
+                    Recent projects
+                </a>  
+                    </li>
+
+
+</ul>
+        </li>
+        <li class="menu-item">
+                <a href="/en/services/nord-pool-academy/" target="_self">
+                    Nord Pool Academy
+                </a>  
+                            <a href="#" class="menu-expander">
+                    <i class="fa expander-icon"></i>
+                </a>
+
+<ul class="sub-menu">
+        <li class="menu-item">
+                <a href="/en/services/nord-pool-academy/nord-pool-certified-compliance-course/" target="_self">
+                    Nord Pool Certified Compliance Course
+                </a>  
+                    </li>
+        <li class="menu-item">
+                <a href="/en/services/nord-pool-academy/ThePhysicalandFinancialPowerMarkets/" target="_self">
+                    The Physical and Financial Power Markets
+                </a>  
+                    </li>
+        <li class="menu-item">
+                <a href="/en/services/nord-pool-academy/Nord-Pool-day-ahead-course/" target="_self">
+                    Nord Pool Day-ahead course
+                </a>  
+                    </li>
+        <li class="menu-item">
+                <a href="/en/services/nord-pool-academy/nord-pool-intraday-course/" target="_self">
+                    Nord Pool Intraday course
+                </a>  
+                    </li>
+        <li class="menu-item">
+                <a href="/en/services/nord-pool-academy/REMIT-compliance-course/" target="_self">
+                    REMIT compliance course
+                </a>  
+                    </li>
+
+
+</ul>
+        </li>
+
+
+</ul>
+        </li>
+        <li class="menu-item">
+                <a href="/en/message-center-container/" target="_self">
+                    Media
+                </a>  
+                            <a href="#" class="menu-expander">
+                    <i class="fa expander-icon"></i>
+                </a>
+
+<ul class="sub-menu">
+        <li class="menu-item">
+                <a href="/en/message-center-container/media-contacts/" target="_self">
+                    Media contacts
+                </a>  
+                            <a href="#" class="menu-expander">
+                    <i class="fa expander-icon"></i>
+                </a>
+
+<ul class="sub-menu">
+        <li class="menu-item">
+                <a href="/en/message-center-container/media-contacts/press-contacts/" target="_self">
+                    Press contacts
+                </a>  
+                    </li>
+
+
+</ul>
+        </li>
+        <li class="menu-item">
+                <a href="/en/message-center-container/newsroom/" target="_self">
+                    Newsroom
+                </a>  
+                            <a href="#" class="menu-expander">
+                    <i class="fa expander-icon"></i>
+                </a>
+
+<ul class="sub-menu">
+        <li class="menu-item">
+                <a href="/en/message-center-container/newsroom/exchange-message-list/" target="_self">
+                    News
+                </a>  
+                    </li>
+        <li class="menu-item">
+                <a href="/en/message-center-container/newsroom/newsletter/" target="_self">
+                    Newsletter
+                </a>  
+                    </li>
+        <li class="menu-item">
+                <a href="/en/message-center-container/newsroom/market-surveillance-newsletter/" target="_self">
+                    Market Surveillance Newsletter
+                </a>  
+                    </li>
+        <li class="menu-item">
+                <a href="/en/message-center-container/newsroom/tso-news/" target="_self">
+                    TSO news
+                </a>  
+                    </li>
+        <li class="menu-item">
+                <a href="/en/message-center-container/newsroom/subscribe-to-messages/" target="_self">
+                    Subscribe
+                </a>  
+                    </li>
+        <li class="menu-item">
+                <a href="/en/message-center-container/newsroom/feature/" target="_self">
+                    Feature
+                </a>  
+                    </li>
+
+
+</ul>
+        </li>
+        <li class="menu-item">
+                <a href="/en/message-center-container/photos/" target="_self">
+                    Photos
+                </a>  
+                    </li>
+        <li class="menu-item">
+                <a href="/en/message-center-container/Annual-report/" target="_self">
+                    Annual report
+                </a>  
+                    </li>
+
+
+</ul>
+        </li>
+
+
+</ul>
+
+
+                <div class="mobile-login-container show-md">
+                    <a href="/login" target="_self">Log in</a>
+                </div>
+            <div class="show-md" id="mobile-top-navigation-links">
+                
+<ul>
+    
+</ul>
+            </div>
+
+            
+            <div class="search-container">
+                <form id="header-search" class="search-form show-market-updates show-login-button" action="/en/search/" ng-submit="ctrl.submit($event)">
+                    <input class="search-input" name="query" autocomplete="off" type="search"
+        ng-model="ctrl.query"
+        typeahead="item for item in ctrl.terms | filter:$viewValue | limitTo:8"
+        typeahead-on-select="ctrl.submit()"
+        placeholder="Search the whole site" />
+
+                    <a href="/en/search/" class="search-button  search-toggle hide-md" ng-show="ctrl.expanded == false" ng-click="ctrl.toggle($event)">
+                        <img class="svg" src="/Static/search-icon-copy-3-white.svg" />
+                        <i class="ie8-fallback fa fa-search"></i>
+                    </a>
+                    <a href="/en/search/" class="search-button  search-toggle show-md" ng-show="ctrl.expanded == false" ng-click="ctrl.toggle($event)">
+                        <img class="svg" src="/Static/search-icon-copy-3-white.svg" />
+                        <i class="ie8-fallback fa fa-search"></i>
+                    </a>
+                    <a href="/en/search/" class="search-button search-toggle expanded" ng-show="ctrl.expanded == true" ng-click="ctrl.toggle($event)">
+                        <img class="svg" src="/Static/search-icon-copy-3.svg" />
+                        <i class="ie8-fallback fa fa-search"></i>
+                    </a>
+                    <span class="search-button search-close close-height" ng-click="ctrl.closeSearch()">
+                        <img class="close-height svg" src="/Static/close.svg" />
+                        <i class="ie8-fallback fa fa-times"></i>
+                    </span>
+                </form>
+                <div class="search-height">
+                </div>
+            </div>
+            <div style="clear: both"></div>
+        </div>
+    </div>
+
+        <div class="login-container hide-md">
+            <a href="/login" target="_self">Log in</a>
+        </div>
+
+</nav>
+
+<div style="clear: both"></div>
+
+                
+<script>
+         
+    var criticalUpdate = '2022-04-08-8-11-20';
+    var splittedCritical = criticalUpdate.split('-');
+    var criticalUpdatedDate = new Date(splittedCritical[0], splittedCritical[1] - 1, splittedCritical[2], splittedCritical[3], splittedCritical[4], splittedCritical[5]);
+    var criticalReadDate = new Date(getCookie("critical-read-date"));
+
+    if (criticalReadDate.getTime() < criticalUpdatedDate.getTime()) {
+        document.cookie = "critical-read-date=; expires=Thu, 01 Jan 1970 00:00:00 GMT; path=/";
+    }
+
+    function getCookie(cname) {
+        var name = cname + "=";
+        var ca = document.cookie.split(';');
+        for (var i = 0; i < ca.length; i++) {
+            var c = ca[i];
+            while (c.charAt(0) == ' ') {
+                c = c.substring(1);
+            }
+            if (c.indexOf(name) == 0) {
+                return c.substring(name.length, c.length);
+            }
+        }
+        return "";
+    }
+
+    function closeCriticalBox() {
+        // If cookie consent is not accepted, then do not create cookie
+        if (getCookie("cookie-consent") == "true") {
+            var criticalReadDate = new Date();
+            document.cookie = "critical-read-date=" + criticalReadDate +"; expires=Fri, 31 Dec 9999 23:59:59 GMT; path=/";            
+        }
+
+        var elem = document.getElementById("critical-box");
+        elem.parentNode.removeChild(elem);
+    }
+</script>
+
+
+
+
+            </header>
+
+            <div id="main" class="main">
+                    <div class="contact-us-button-container white-contact-us">
+                        <a href="/en/Contact-us/">
+                            <div class="img"><noscript data-slimmage data-img-src="/link/109dfa1df0a74b919353e2c7a07b9cad.aspx?width=320&quality=90"><img class="resizable" src="/link/109dfa1df0a74b919353e2c7a07b9cad.aspx?width=320&quality=90" alt="" /></noscript></div>
+                        </a>
+                    </div>
+
+                
+
+
+    <img id="error-img" src="/Static/error.png" />
+
+<div id="error-content">
+        <h1>Important information</h1>
+
+        <p><h2>Due to our recent website update, the URL addresses of our data pages have changed.&nbsp;</h2>
+<h2>You can access the Market Data section via the link below:<br /><a href="/en/Market-data1/" target="_top">https://www.nordpoolgroup.com/en/Market-data1/#/nordic/chart</a>&nbsp;</h2>
+<h2>Or go to the Nord Pool landing page (top left corner icon) and navigate to the Market Data section from there.</h2>
+<h2>You can also now save the new links.</h2>
+<h2>For users of our &ldquo;Favorites&rdquo; section, to update simply go to the market data pages you had under &ldquo;favorites&rdquo; and press the heart sign - the new links will be added.</h2>
+<h2>We apologise for any inconvenience.</h2>
+<p>&nbsp;</p></p>
+</div>
+
+
+<style>
+    #main {
+        overflow: visible;
+    }
+
+    #error-img {
+        display: inline-block;
+        vertical-align: middle;
+        max-width: 100%;
+    }
+
+    #error-content {
+        display: inline-block;
+        vertical-align: middle;
+        max-width: 20em;
+        margin: 1em;
+        font-size: 16px;
+    }
+</style>
+
+            </div>
+        
+            
+<footer>
+    <div id="footer-content">
+        
+        <div class="content">
+            <div class="pure-g" id="first-row">
+                <div class="pure-u-1-1 pure-u-md-1-1 pure-u-lg-1-5 pure-u-lx-1-5">
+                    <div class="logo">
+                        <a href="/en/" target="_self">
+                            <img src="/Static/new-logo.png" alt="Nord Pool logo" />
+                        </a>
+                    </div>
+                    <div class="contact-information">
+                        <ul>
+                            <p>Nord Pool AS</p>
+<p>Tel. +47 6710 9100</p>
+<p>P.O. Box 121</p>
+<p>1325 Lysaker, Norway</p>
+                        </ul>
+                    </div>
+                </div>
+                <div class="pure-u-1-1 pure-u-sm-1-2 pure-u-md-1-2 pure-u-lg-1-5 pure-u-lx-1-5">
+                        <h2 class="link-title">
+                            <a href="/en/Market-data1/">
+                                Market Data
+                            </a>
+                        </h2>
+                        <ul>
+                                    <li>
+                                        <a href="/en/Market-data1/Dayahead/Area-Prices/ALL1/Hourly/" title="Day-ahead">Day-ahead</a>
+                                    </li>
+                                    <li>
+                                        <a href="/en/Market-data1/Intraday/Market-data1/" target="_blank" title="Intraday">Intraday</a>
+                                    </li>
+                                    <li>
+                                        <a href="/en/Market-data1/Regulating-Power1/Regulating-Power--Area1/" title="Regulating power">Regulating power</a>
+                                    </li>
+                                    <li>
+                                        <a href="/en/Market-data1/Power-system-data/Production1/Production1/" title="Power system data">Power system data</a>
+                                    </li>
+                                    <li>
+                                        <a href="/en/maps/" title="Maps">Maps</a>
+                                    </li>
+                        </ul>
+                </div>
+
+                <div class="pure-u-1-1 pure-u-sm-1-2 pure-u-md-1-2 pure-u-lg-1-5 pure-u-lx-1-5">
+                    <h2 class="link-title">
+                        <a href="/en/trading/">
+                            Trading
+                        </a>
+                    </h2>
+                    <ul>
+                                <li>
+                                    <a href="/en/trading/join-our-markets/" target="_top" title="Join our markets">Join our markets</a>
+                                </li>
+                                <li>
+                                    <a href="/en/trading/Operational-Message-List/" target="_top" title="Operational messages">Operational messages</a>
+                                </li>
+                                <li>
+                                    <a href="/en/trading/Day-ahead-trading/" target="_top" title="Day-ahead trading">Day-ahead trading</a>
+                                </li>
+                                <li>
+                                    <a href="/en/trading/intraday-trading/" target="_top" title="Intraday trading">Intraday trading</a>
+                                </li>
+                                <li>
+                                    <a href="/en/trading/Clearing/" target="_top" title="Clearing">Clearing</a>
+                                </li>
+                                <li>
+                                    <a href="/en/trading/api/" target="_top" title="API">API</a>
+                                </li>
+                                <li>
+                                    <a href="/en/trading/Rules-and-regulations/" target="_top" title="Rules &amp; regulations">Rules &amp; regulations</a>
+                                </li>
+                                <li>
+                                    <a href="/en/trading/Market-surveillance/" target="_top" title="Market surveillance">Market surveillance</a>
+                                </li>
+                                <li>
+                                    <a href="/en/trading/customer-information-on-brexit/">Customer information on Brexit</a>
+                                </li>
+                                <li>
+                                    <a href="/en/trading/customers-have-their-say/">Customers have their say</a>
+                                </li>
+                    </ul>
+                </div>
+                <div class="pure-u-1-1 pure-u-sm-1-2 pure-u-md-1-2 pure-u-lg-1-5 pure-u-lx-1-5">
+                    <h2 class="link-title">
+                        <a href="/en/services/">
+                            Services
+                        </a>
+                    </h2>
+                    <ul>
+                                <li>
+                                    <a href="/en/services/power-market-data-services/" target="_top" title="Premium Data Services">Premium Data Services</a>
+                                </li>
+                                <li>
+                                    <a href="/en/services/compliance/" target="_top" title="Compliance">Compliance</a>
+                                </li>
+                                <li>
+                                    <a href="/en/services/consulting/" target="_top" title="Consulting">Consulting</a>
+                                </li>
+                                <li>
+                                    <a href="/en/services/nord-pool-academy/" target="_top" title="Nord Pool Academy">Nord Pool Academy</a>
+                                </li>
+                                <li>
+                                    <a href="/de/" target="_blank" title="German mini-site">German mini-site</a>
+                                </li>
+                                <li>
+                                    <a href="/fr/" target="_blank">French mini-site</a>
+                                </li>
+                    </ul>
+                </div>
+                <div class="pure-u-1-1 pure-u-sm-1-2 pure-u-md-1-2 pure-u-lg-1-5 pure-u-lx-1-5">
+                    <h2 class="link-title">
+                        <a href="/en/the-power-market/">
+                            The Power Market
+                        </a>
+                    </h2>
+                    <ul>
+                                <li>
+                                    <a href="/en/the-power-market/Day-ahead-market/" target="_top" title="Day-ahead market">Day-ahead market</a>
+                                </li>
+                                <li>
+                                    <a href="/en/the-power-market/Intraday-market/" target="_top" title="Intraday market">Intraday market</a>
+                                </li>
+                                <li>
+                                    <a href="/en/the-power-market/cacm-regulation/" target="_top" title="CACM regulation">CACM regulation</a>
+                                </li>
+                                <li>
+                                    <a href="/en/the-power-market/benchmark-regulation--the-nordic-system-price/">Benchmark regulation - Nordic system price</a>
+                                </li>
+                                <li>
+                                    <a href="/en/the-power-market/The-market-members/" target="_top" title="Market members">Market members</a>
+                                </li>
+                                <li>
+                                    <a href="/en/the-power-market/Bidding-areas/" target="_top" title="Bidding areas">Bidding areas</a>
+                                </li>
+                    </ul>
+                </div>
+            </div>
+            <div class="pure-g" id="bottom-row">
+                <div class="pure-u-1-1 pure-u-sm-1-2 pure-u-md-1-2 pure-u-lg-1-5 pure-u-lx-1-5">
+                    <div class="social-media-heading">
+                        <h2>
+                            Social media
+                        </h2>
+
+                    </div>
+                    <div class="social-container">
+                        <a href="https://www.linkedin.com/company/76209/" target="_blank" class="fa fa-linkedin"></a>
+                        <a href="https://twitter.com/NordPool_energy" target="_blank" class="fa fa-twitter"></a>
+                    </div>
+                </div>
+                <div class="pure-u-1-1 pure-u-sm-1-2 pure-u-md-1-2 pure-u-lg-1-5 pure-u-lx-1-5">
+                    <h2 class="link-title">
+Quick links                    </h2>
+                    <ul>
+                                <li>
+                                    <a href="https://umm.nordpoolgroup.com/" target="_blank" title="UMM">UMM</a>
+                                </li>
+                                <li>
+                                    <a href="http://auction.nordpoolgroup.com/" target="_blank" title="Auction">Auction</a>
+                                </li>
+                                <li>
+                                    <a href="https://intraday2.nordpoolgroup.com/" target="_blank" title="Intraday Web">Intraday Web</a>
+                                </li>
+                                <li>
+                                    <a href="https://clearing.nordpoolgroup.com/" target="_blank" title="CASS">CASS</a>
+                                </li>
+                                <li>
+                                    <a href="https://auctions.nordpoolgroup.com/" target="_blank">Intraday and GB Half Hourly auctions</a>
+                                </li>
+                    </ul>
+                </div>
+                <div class="pure-u-1-1 pure-u-sm-1-2 pure-u-md-1-2 pure-u-lg-1-5 pure-u-lx-1-5">
+                    <h2 class="link-title">
+                        <a href="/en/message-center-container/">
+                            Media
+                        </a>
+                    </h2>
+                    <ul>
+                                <li>
+                                    <a href="/en/message-center-container/media-contacts/" target="_top" title="Press">Press</a>
+                                </li>
+                                <li>
+                                    <a href="/en/message-center-container/newsroom/" target="_top" title="Newsroom">Newsroom</a>
+                                </li>
+                                <li>
+                                    <a href="/en/message-center-container/Annual-report/" target="_top" title="Annual report">Annual report</a>
+                                </li>
+                                <li>
+                                    <a href="/en/download-center/" target="_top" title="Download center">Download center</a>
+                                </li>
+                    </ul>
+                </div>
+                <div class="pure-u-1-1 pure-u-sm-1-2 pure-u-md-1-2 pure-u-lg-1-5 pure-u-lx-1-5">
+                    <h2 class="link-title">
+                        <a href="/en/About-us/">
+                            About us
+                        </a>
+                    </h2>
+                    <ul>
+                                <li>
+                                    <a href="/en/About-us/Careers/" target="_top" title="Careers">Careers</a>
+                                </li>
+                                <li>
+                                    <a href="/en/About-us/Advisory-board/" target="_top" title="Advisory board">Advisory board</a>
+                                </li>
+                                <li>
+                                    <a href="/en/About-us/History/" target="_top" title="History">History</a>
+                                </li>
+                                <li>
+                                    <a href="/en/About-us/organisation/" target="_top" title="Organisation">Organisation</a>
+                                </li>
+                                <li>
+                                    <a href="/en/About-us/meet-our-people/" target="_top" title="Meet our people">Meet our people</a>
+                                </li>
+                                <li>
+                                    <a href="/en/About-us/Corporate-compliance-policy/" target="_top" title="Corporate Compliance Policy">Corporate Compliance Policy</a>
+                                </li>
+                                <li>
+                                    <a href="/en/About-us/control-cookies/" target="_top">Control cookies</a>
+                                </li>
+                    </ul>
+                </div>
+                <div class="pure-u-1-1 pure-u-sm-1-2 pure-u-md-1-2 pure-u-lg-1-5 pure-u-lx-1-5">
+                    <h2 class="link-title">
+                        <a href="/en/Contact-us/">
+                            Contact us
+                        </a>
+                    </h2>
+                    <div>
+                        
+<ul>
+    
+        <li>
+            <a href="/en/Contact-us/Oslo-Norway/" target="_top" title="Norway">Norway</a> 
+        </li>
+    
+        <li>
+            <a href="/en/Contact-us/Stockholm-Sweden/" target="_top" title="Sweden">Sweden</a> 
+        </li>
+    
+        <li>
+            <a href="/en/Contact-us/Espoo-Finland/" target="_top" title="Finland">Finland</a> 
+        </li>
+    
+        <li>
+            <a href="/en/Contact-us/Tallinn-Estonia/" target="_top" title="Estonia">Estonia</a> 
+        </li>
+    
+        <li>
+            <a href="/en/Contact-us/London-UK/" target="_top" title="UK">UK</a> 
+        </li>
+    
+        <li>
+            <a href="/en/Contact-us/berlin-germany/" target="_top" title="Germany">Germany</a> 
+        </li>
+    
+</ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="pure-g">
+            <div class="pure-u-1">
+                <div class="copyright">
+                    <p>© Nord Pool 2020 | <a href="/en/About-us/Terms-and-conditions-for-use/" target="_blank">Imprint, Data Policy, Legal Notice, How We Treat Personal Data</a></p>
+                </div>
+            </div>
+        </div>
+    </div>
+</footer>
+
+        </div>
+
+        <div id="mobile-visibility-check" class="hide-xs hide-sm"></div>
+        <div id="scripts">
+<script>var html5Mode = false;</script>
+                <script src="/Assets/Scripts-Release/vendor.js?v=637861362140000000"></script>
+                <script src="/Assets/Scripts-Release/nordpool.js?v=637861362160000000"></script>
+                <script src="/signalr/hubs"></script>
+                <script>
+                    try { angular.bootstrap(document, ['NordpoolApp']); }
+                    catch (e) { console.error(e.stack || e.message || e); }
+                </script>        </div>
+        
+    </body>
+</html>
