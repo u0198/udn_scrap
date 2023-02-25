@@ -39,15 +39,15 @@ with open('covid_case.csv', mode='a') as file:
 
 # %%
 #credentials to the account
-cred = ServiceAccountCredentials.from_json_keyfile_name(r'C:\Users\u0198\Desktop\AutoDev\udn_scrap\cred.json') ;
-# authorize the clientsheet 
-client = gspread.authorize(cred)
+# cred = ServiceAccountCredentials.from_json_keyfile_name(r'C:\Users\u0198\Desktop\AutoDev\udn_scrap\cred.json') ;
+# # authorize the clientsheet 
+# client = gspread.authorize(cred)
 
-# %%
-sh = client.open('coviddata')
-worksheet = sh.worksheet('2022')
+# # %%
+# sh = client.open('coviddata')
+# worksheet = sh.worksheet('2022')
 
-# worksheet.insert_row([month/date, cases], index=3)
-worksheet.append_row([f'{month}/{date}', cases], table_range="A:A")
+# # worksheet.insert_row([month/date, cases], index=3)
+# worksheet.append_row([f'{month}/{date}', cases], table_range="A:A")
 
 

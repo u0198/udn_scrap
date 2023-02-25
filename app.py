@@ -173,24 +173,24 @@ subtitle.paragraphs[1].alignment = PP_ALIGN.CENTER
 # In[32]:
 
 
-# import pandas as pd
-
-# file = open('covid_case.csv')
-# df = pd.read_csv(file)
-
-import gspread
-from oauth2client.service_account import ServiceAccountCredentials
-
-#credentials to the account
-cred = ServiceAccountCredentials.from_json_keyfile_name(r'C:\Users\u0198\Desktop\AutoDev\udn_scrap\cred.json') ;
-# authorize the clientsheet 
-client = gspread.authorize(cred)
-
-sh = client.open('coviddata')
-worksheet = sh.worksheet('2022')
-
 import pandas as pd
-df = pd.DataFrame(worksheet.get_all_records())
+
+file = open('covid_case.csv')
+df = pd.read_csv(file)
+
+# import gspread
+# from oauth2client.service_account import ServiceAccountCredentials
+
+# #credentials to the account
+# cred = ServiceAccountCredentials.from_json_keyfile_name(r'C:\Users\u0198\Desktop\AutoDev\udn_scrap\cred.json') ;
+# # authorize the clientsheet 
+# client = gspread.authorize(cred)
+
+# sh = client.open('coviddata')
+# worksheet = sh.worksheet('2022')
+
+# import pandas as pd
+# df = pd.DataFrame(worksheet.get_all_records())
 
 
 # In[33]:
@@ -261,8 +261,8 @@ for point in points:
 
 shape = slide2.shapes.add_textbox(Inches(1.8), Inches(6.6), Inches(12), Inches(1))
 title = shape.text_frame
-
-title.text = f'2022/12/1起放寬戴口罩等防疫措施。'
+title.text = f'2/20起起室內可免戴口罩，開放北辦及廠區不戴口罩。'
+# title.paragraphs[0].font.color.rgb = RGBColor(0,0,255);
 
 for p in title.paragraphs:
   p.font.size = Pt(26)
